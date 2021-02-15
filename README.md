@@ -1,2 +1,1 @@
-# git_test
-Odin Project git test
+This is Kai's first git Project
